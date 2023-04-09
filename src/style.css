@@ -40,9 +40,9 @@ body {
   
   .weather-app {
     padding: 20px;
-    border: 1px solid #dadde1;
+    border: 1px solid #ced8b7;
     border-radius: 5px;
-    background-color: #4e4848;
+    background-color: #ced8b7;
   }
   
   .overview {
@@ -94,4 +94,16 @@ body {
   
   .weather-forecast-temperatures {
     font-size: 13px;
+  }
+
+  #last{
+    display: block;
+    margin: 2px auto;
+    text-align: center;
+    color: white;
+    font-size: medium;
+  }
+
+  #last a{
+    color: brown;
   }
