@@ -6,7 +6,7 @@ body {
   }
   
   h1 {
-    color: #878787;
+    color: white;
     font-size: 24px;
     font-weight: 100;
     line-height: 28px;
@@ -23,7 +23,7 @@ body {
     margin: 0;
     padding: 0;
   
-    color: rgb(135, 135, 135);
+    color: white;
     font-size: 16px;
     font-weight: 100;
     line-height: 19px;
@@ -55,7 +55,7 @@ body {
   }
   
   .weather-temperature strong {
-    color: rgb(33, 33, 33);
+    color: white;
     font-size: 64px;
     line-height: 1;
     font-weight: 400;
@@ -68,7 +68,7 @@ body {
   }
   
   .weather-temperature .active {
-    color: rgb(33, 33, 33);
+    color: white;
     cursor: default;
   }
   
@@ -79,7 +79,7 @@ body {
   .weather-forecast {
     margin-top: 20px;
     text-align: center;
-    color: #000;
+    color: white;
   }
   
   .weather-forecast-date {
