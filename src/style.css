@@ -109,4 +109,7 @@ body {
     color: brown;
   }
 
-  
+  #btn{
+    background-color: rgb(196, 31, 86);
+    border: #efbacf ;
+  }
