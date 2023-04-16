@@ -1,12 +1,12 @@
 body {
     font-family: arial, sans-serif;
-    background-image: url("https://th.bing.com/th/id/R.e27a22a6b85fabd8c2affbc57f626dc2?rik=wknJBCASQU6XeA&pid=ImgRaw&r=0");
+    background-image: url("https://f4.bcbits.com/img/a3639761882_10.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
   
   h1 {
-    color: #878787;
+    color: #5f5e5e;
     font-size: 24px;
     font-weight: 100;
     line-height: 28px;
@@ -23,7 +23,7 @@ body {
     margin: 0;
     padding: 0;
   
-    color: rgb(135, 135, 135);
+    color: #5f5e5e;
     font-size: 16px;
     font-weight: 100;
     line-height: 19px;
@@ -40,9 +40,9 @@ body {
   
   .weather-app {
     padding: 20px;
-    border: 1px solid #ced8b7;
+    border: 1px solid #efbacf;
     border-radius: 5px;
-    background-color: #ced8b7;
+    background-color: #efbacf;
   }
   
   .overview {
@@ -102,8 +102,11 @@ body {
     text-align: center;
     color: white;
     font-size: medium;
+    margin-top: 30px;
   }
 
   #last a{
     color: brown;
   }
+
+  
